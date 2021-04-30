@@ -22,7 +22,7 @@ I am a Fullstack developer,
 
 #### WHERE DID I SPENT LAST 7 DAYS?
 
- [![Mansoor's github stats](https://github.com/hussainmansoor876/hussainmansoor876/blob/master/images/stat.svg)][website]
+ [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
  <br/>
 ### Connect with me:
 
