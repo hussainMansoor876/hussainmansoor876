@@ -47,7 +47,7 @@ I am a Fullstack developer,
  
 </details>
 
-[website]: https://mansoorrajput.com
+[website]: https://hussainmansoor.com
 [facebook]: https://www.facebook.com/hussainmansoor876/
 [linkedin]: https://www.linkedin.com/in/mansoor-hussain-28b97815b/
 [stackoverflow]: https://stackoverflow.com/users/13417349/mansoor-rajput
