@@ -24,6 +24,8 @@ I am a Fullstack developer,
 
  [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
  <br/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=hussainmansoor876&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <br />
 ### Connect with me:
 
 [<img align="left" alt="mansoorrajput.com" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
@@ -46,8 +48,6 @@ I am a Fullstack developer,
  
  
 </details>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hussainmansoor876&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [website]: https://hussainmansoor.com
 [facebook]: https://www.facebook.com/hussainmansoor876/
