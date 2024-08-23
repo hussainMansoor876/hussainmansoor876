@@ -25,22 +25,13 @@ I am a Fullstack developer,
  [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
  <br/>
  
-### Connect with me:
+<h3 align="left">▶ Connect with me:</h3>
 
 [<img align="left" alt="mansoorrajput.com" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
 [<img align="left" alt="hussainmansoor876 | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
 [<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 [<img align="left" alt="hussainmansoor876 | StackOverflow" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966" />][stackoverflow]
-<!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] -->
-
-<h3 align="left">▶ Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-    <a href="https://stackoverflow.com/users/11788531/aakash-sharma?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
-  </p>
-</br>
+[<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr]
 
 <br />
 <br/>
