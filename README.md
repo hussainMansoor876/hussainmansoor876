@@ -20,7 +20,7 @@
 
 ---
 
-### Connect With Me:
+<h3 align="left">▶ Connect with me:</h3>
 
 [![Website Badge](https://img.shields.io/badge/Website-13A300?style=for-the-badge&logo=hussainmansoor&logoColor=white)](https://hussainmansoor.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hussainmansoor876)
@@ -32,7 +32,7 @@
 
 ---
 
-### TECHNOLOGIES I USE OR CODE WITH:
+<h3 align="left">▶ TECHNOLOGIES I USE OR CODE WITH:</h3>
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -60,21 +60,6 @@
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/hussainMansoor876"><img alt="Check out hussainMansoor876's profile on stardev.io" src="https://stardev.io/developers/hussainMansoor876/badge/languages/locality.svg" /></a>
-
----
-
-
-### Top Repositories
-
-
-<a href="https://github.com/hussainMansoor876/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainMansoor876&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/hussainMansoor876/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hussainMansoor876&repo=Express-Postgres-blog&theme=algolia" />
-</a>
-
-====================================================
 
 ---
 
