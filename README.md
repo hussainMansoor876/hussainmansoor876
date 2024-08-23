@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansoor+Hussain....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)
+
+[![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)][website]
 
 ![](https://komarev.com/ghpvc/?username=hussainmansoor876&color=brightgreen)
 
