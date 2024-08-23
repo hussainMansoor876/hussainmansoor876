@@ -1,5 +1,3 @@
-### Hi there, [I'm Mansoor Hussain][website] <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
-
 ![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)
 
 
