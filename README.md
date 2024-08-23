@@ -69,5 +69,5 @@
 
 <h3 align="left">▶ WHERE DID I SPENT LAST 7 DAYS:</h3>
 
- [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)]
+ ![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)
  <br/>
