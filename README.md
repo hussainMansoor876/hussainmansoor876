@@ -75,3 +75,12 @@
  ### Contribution:
  [![GitHub Streak](https://streak-stats.demolab.com?user=hussainmansoor876&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  <br />
+
+#### WHERE DID I SPENT LAST 7 DAYS?
+
+ [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
+ <br/>
+ 
+ ### Contribution:
+ [![GitHub Streak](https://streak-stats.demolab.com?user=hussainmansoor876&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <br />
