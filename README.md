@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-[![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)][website]
+[![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)]
 
 ![](https://komarev.com/ghpvc/?username=hussainmansoor876&color=brightgreen)
 
