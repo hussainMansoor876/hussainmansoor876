@@ -28,6 +28,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorrajput876@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-00AB2B?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mansoorh876)
 [![Upwork Badge](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hussainmansoor)
+[![Website Badge](https://img.shields.io/badge/Website-13A300?style=for-the-badge&logo=hussainmansoor&logoColor=white)](https://hussainmansoor.com/)
 
 ---
 
