@@ -75,7 +75,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&show_icons=trueline_height=21&theme=github_dark&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">	
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainmansoor876&theme=holi-theme">
