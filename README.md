@@ -39,8 +39,19 @@ I am a Fullstack developer,
 <br />
 <br/>
 
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainmansoor876&theme=holi-theme">
+</p>
+
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<!--   <summary>:zap: GitHub Stats</summary>
 
  [![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
  
@@ -55,4 +66,4 @@ I am a Fullstack developer,
 [facebook]: https://www.facebook.com/hussainmansoor876/
 [linkedin]: https://www.linkedin.com/in/mansoor-hussain-28b97815b/
 [stackoverflow]: https://stackoverflow.com/users/13417349/mansoor-rajput
-[fiverr]: https://www.fiverr.com/mansoorh876
+[fiverr]: https://www.fiverr.com/mansoorh876 -->
