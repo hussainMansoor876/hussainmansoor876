@@ -40,13 +40,13 @@
 <h3 align="left">▶ My Github Stats:</h3>
 
 <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainMansoor876&theme=algolia" alt="hussainMansoor876" />
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainMansoor876&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&line_height=21&theme=algolia&show_icons=true&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainMansoor876&theme=algolia" alt="hussainMansoor876" />
 </p>
 
 ---
