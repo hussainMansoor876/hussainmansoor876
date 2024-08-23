@@ -40,7 +40,7 @@
 
 ---
 
-### My Github Stats:
+<h3 align="left">▶ My Github Stats:</h3>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainMansoor876&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
@@ -51,20 +51,20 @@
 
 ---
 
-### Top Usage Languages:
+<h3 align="left">▶ Top Usage Languages:</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainMansoor876&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
-### StarDev Ranking
+<h3 align="left">▶ StarDev Ranking:</h3>
 
 <a href="https://stardev.io/developers/hussainMansoor876"><img alt="Check out hussainMansoor876's profile on stardev.io" src="https://stardev.io/developers/hussainMansoor876/badge/languages/locality.svg" /></a>
 
 ---
 
 
-#### WHERE DID I SPENT LAST 7 DAYS?
+<h3 align="left">▶ WHERE DID I SPENT LAST 7 DAYS?:</h3>
 
  [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
  <br/>
