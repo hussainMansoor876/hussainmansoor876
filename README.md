@@ -46,10 +46,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainMansoor876&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainMansoor876&theme=algolia" alt="hussainMansoor876" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&line_height=21&theme=algolia&show_icons=true&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&line_height=21&theme=algolia&show_icons=true&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainMansoor876&theme=algolia" alt="hussainMansoor876" />
 </p>
 
 ---
@@ -71,33 +71,3 @@
 
  [![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)][website]
  <br/>
-
-
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&show_icons=trueline_height=21&theme=github_dark&show_icons=true&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainmansoor876&theme=holi-theme">
-</p>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- [![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
- 
- 
-  [![Mansoor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&hide=css,html&show_icons=true&hide_border=true)][website]
- 
- 
- 
-</details>
-
-[website]: https://hussainmansoor.com
-[facebook]: https://www.facebook.com/hussainmansoor876/
-[linkedin]: https://www.linkedin.com/in/mansoor-hussain-28b97815b/
-[stackoverflow]: https://stackoverflow.com/users/13417349/mansoor-rajput
-[fiverr]: https://www.fiverr.com/mansoorh876
