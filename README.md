@@ -22,13 +22,13 @@
 
 ### Connect With Me:
 
+[![Website Badge](https://img.shields.io/badge/Website-13A300?style=for-the-badge&logo=hussainmansoor&logoColor=white)](https://hussainmansoor.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hussainmansoor876)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor-hussain-28b97815b)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussainmansoor876)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorrajput876@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-00AB2B?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mansoorh876)
 [![Upwork Badge](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hussainmansoor)
-[![Website Badge](https://img.shields.io/badge/Website-13A300?style=for-the-badge&logo=hussainmansoor&logoColor=white)](https://hussainmansoor.com/)
 
 ---
 
