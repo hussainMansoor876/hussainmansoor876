@@ -5,11 +5,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansoor+Hussain....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hussainmansoor876&color=brightgreen)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
