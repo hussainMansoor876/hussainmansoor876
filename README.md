@@ -1,70 +1,167 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansoor+Hussain....;Nice+to+meet+you!&center=true&size=30">
+<h1 align="center">Hi 👋, I'm Mansoor Hussain</h1>
+
+<h3 align="center">
+Senior Full Stack Developer | Founder at Neptunes Tech | AI Automation & SaaS Engineer
+</h3>
+
+<p align="center">
+I build scalable web apps, mobile apps, SaaS platforms, AI automation systems, and cloud-based business solutions for startups, agencies, and international clients.
+</p>
+
+<p align="center">
+  <a href="https://neptunestech.com">
+    <img src="https://img.shields.io/badge/Neptunes%20Tech-AI%20Automation%20%26%20Software%20Solutions-blue?style=for-the-badge" />
   </a>
-</h1>
-
-![Website](https://img.shields.io/website?label=hussainmansoor.com&style=for-the-badge&url=https://hussainmansoor.com)
-
-![](https://komarev.com/ghpvc/?username=hussainmansoor876&color=brightgreen)
-
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
-
----
-
-<h3 align="left">▶ Connect with me:</h3>
-
-[![Website Badge](https://img.shields.io/badge/Website-13A300?style=for-the-badge&logo=hussainmansoor&logoColor=white)](https://hussainmansoor.com/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hussainmansoor876)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor-hussain-28b97815b)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussainmansoor876)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorrajput876@gmail.com)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-00AB2B?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mansoorh876)
-[![Upwork Badge](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hussainmansoor)
-
----
-
-<h3 align="left">▶ TECHNOLOGIES I USE OR CODE WITH:</h3>
-
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/semantic%20UI%20-%234ABDB2.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4xLjIsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTYgMjU2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTI0LjUsMjA3LjFjLTIyLjktMi00MC4xLTE0LjUtNjEuOS0yMy44Yy05LjUsMTQuNS0yMC42LDI0LjQtMzAuMSwzOWMzNy45LDI0LjMsODIuNyw0MS42LDEyOC44LDMwLjINCgljMzUuMy04LjcsNTcuNS0zNS4yLDYwLjEtNzIuMWMyLTI5LTE1LjEtNTEuNi00OC43LTY1LjZjLTE4LjQtNy43LTM0LjgtMTUtNTMuNS0yMS45Yy0xMS4zLTQuMi0yMi4yLTEwLjktMjAtMjMuMg0KCWMyLjQtMTMuMSwxMy43LTIwLjMsMjYuOS0yMC42YzIzLjEtMC40LDQwLjcsOC43LDYwLjYsMjAuMmMxMC4zLTEzLjYsMTguMy0yMy40LDI4LjctMzcuMUMxNzYuMyw3LDE0Ni42LTEwLDkyLjYsNi42DQoJYy0zNS4xLDEwLjktNDkuNSw0NS44LTQ5LjUsNjNDNDEsOTkuMSw1My43LDEyNC4xLDg1LDEzNi45YzE2LjksNi45LDM0LjIsMTQuNCw1MS40LDIwLjVjMTQuNSw1LjEsMjkuNCwxNC4zLDI2LjEsMzEuNA0KCUMxNTksMjA3LjcsMTQwLjcsMjA4LjUsMTI0LjUsMjA3LjF6Ii8+DQo8L3N2Zz4NCg=="/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-
----
-
-<h3 align="left">▶ My Github Stats:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainMansoor876&theme=algolia" alt="hussainMansoor876" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainMansoor876&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&count_private=true&line_height=21&theme=algolia&show_icons=true&custom_title=Mansoor%20Hussain%27s%20Current%20Year%20Github%20Stats">
+  <a href="https://github.com/hussainmansoor876">
+    <img src="https://img.shields.io/badge/GitHub-hussainmansoor876-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:hussainmansoor876@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">▶ Top Usage Languages:</h3>
+## 👨‍💻 About Me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainMansoor876&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+I am a **Senior Full Stack Developer** and the **Founder of Neptunes Tech**, a software development and AI automation company focused on building real-world digital products for businesses.
 
----
+I work with international clients to design, develop, and launch custom platforms, including **SaaS products, booking systems, dashboards, marketplaces, AI tools, automation workflows, CRM systems, and cloud-based applications**.
 
-<h3 align="left">▶ StarDev Ranking:</h3>
-
-<a href="https://stardev.io/developers/hussainMansoor876"><img alt="Check out hussainMansoor876's profile on stardev.io" src="https://stardev.io/developers/hussainMansoor876/badge/languages/locality.svg" /></a>
+My focus is not only writing clean code, but also understanding the business goal behind every project and turning ideas into reliable, scalable, and production-ready products.
 
 ---
 
+## 🚀 Neptunes Tech
 
-<h3 align="left">▶ WHERE DID I SPENT LAST 7 DAYS:</h3>
+At **Neptunes Tech**, we help businesses grow through smart technology solutions.
 
- ![Mansoor's github stats](https://raw.githubusercontent.com/hussainMansoor876/hussainmansoor876/main/images/stat.svg)
- <br/>
+We specialize in:
+
+* AI-powered automation systems
+* Custom web and mobile applications
+* SaaS platform development
+* MVP development for startups
+* CRM, dashboard, and admin panel development
+* API integrations and third-party services
+* Cloud deployment and DevOps
+* Business workflow automation
+
+Our goal is simple: **build smart solutions that save time, reduce manual work, and help businesses scale faster.**
+
+---
+
+## 💼 What I Do
+
+* Build modern frontend applications using **React.js, Next.js, TypeScript, Tailwind CSS**
+* Develop scalable backend systems using **Node.js, Express.js, Python, FastAPI, Flask**
+* Design and manage databases using **PostgreSQL, MongoDB, Supabase, Firebase**
+* Create AI automation workflows using **OpenAI API, n8n, LangChain, Pinecone**
+* Integrate payments, bookings, live chat, emails, notifications, and real-time features
+* Deploy applications on **AWS, GCP, DigitalOcean, Vercel, Netlify, Firebase**
+* Lead projects from idea, planning, development, testing, deployment, and maintenance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean)
+
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+---
+
+## 📌 Experience Highlights
+
+* Founder & Lead Engineer at **Neptunes Tech**
+* 6+ years of experience in full-stack software development
+* Built SaaS platforms, marketplaces, booking systems, dashboards, and automation tools
+* Worked with international clients through freelance platforms and direct contracts
+* Experienced in project planning, architecture, development, deployment, and support
+* Strong background in AI integrations, real-time apps, APIs, cloud deployment, and DevOps
+
+---
+
+## 🧩 Types of Projects I Build
+
+* AI Receptionist & AI Chatbot Systems
+* SaaS Platforms & Admin Dashboards
+* Booking & Reservation Systems
+* Marketplace Platforms
+* CRM & Business Management Tools
+* Real-time Chat & Notification Systems
+* E-commerce & Payment Platforms
+* Automation Workflows
+* Web Scraping & Data Processing Tools
+* Mobile Responsive Business Websites
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainmansoor876&show_icons=true&theme=tokyonight" alt="Mansoor Hussain GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainmansoor876&theme=tokyonight" alt="Mansoor Hussain GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmansoor876&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://neptunestech.com">
+    <img src="https://img.shields.io/badge/Website-Neptunes%20Tech-blue?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="mailto:hussainmansoor876@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hussainmansoor876%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/hussainmansoor876">
+    <img src="https://img.shields.io/badge/GitHub-hussainmansoor876-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Build Something Great
+
+I am always open to discussing new ideas, client projects, SaaS products, AI automation systems, and long-term software development partnerships.
+
+If you are building a product or want to automate your business processes, feel free to connect with me.
