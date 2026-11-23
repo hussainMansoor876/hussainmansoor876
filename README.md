@@ -2,19 +2,22 @@
 
 # Hi 👋, I'm Mansoor Hussain
 
-### Senior Full Stack Developer | 7+ Years Experience | Founder at Neptunes Tech | AI Automation & SaaS Engineer
+### AI Integration & Full-Stack Engineer | 6+ Years | Founder, Neptunes Tech Ltd
 
-I build scalable web apps, mobile apps, SaaS platforms, AI automation systems, and cloud-based business solutions for startups, agencies, and international clients.
+I build AI agents and automation into software that is already in production — the kind with real users, real data, and no room for a demo that falls over.
 
 <br />
 
-<a href="https://neptunes-tech-rcpa9.ondigitalocean.app/" target="_blank">
+<a href="https://www.neptunestech.com" target="_blank">
   <img src="https://img.shields.io/badge/Neptunes%20Tech-Software%20%26%20AI%20Solutions-blue?style=for-the-badge" />
+</a>
+<a href="https://www.neptunestech.com/team/mansoor-hussain" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-Experience%20%26%20Reviews-5CD2FF?style=for-the-badge" />
 </a>
 <a href="https://github.com/hussainmansoor876" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-hussainmansoor876-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussainmansoor876@gmail.com" target="_blank">
+<a href="mailto:mansoor.hussain@neptunestech.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -24,7 +27,7 @@ I build scalable web apps, mobile apps, SaaS platforms, AI automation systems, a
 
 ## 👨‍💻 About Me
 
-I am a **Senior Full Stack Developer** with **7+ years of hands-on experience** in designing, developing, and deploying modern software solutions.
+I am an **AI integration and full-stack engineer** with **6+ years of hands-on experience** building, shipping and maintaining production software.
 
 I am also the **Founder of Neptunes Tech**, a software development and AI automation company focused on building real-world digital products for startups, agencies, and businesses.
 
@@ -60,9 +63,9 @@ Our mission is simple: **build smart software that saves time, reduces manual wo
 
 ## 💼 Professional Experience
 
-### Senior Full Stack Developer — 7+ Years Experience
+### AI Integration & Full-Stack Engineering — 6+ Years
 
-I have **7+ years of experience** working across frontend, backend, databases, cloud deployment, API integrations, automation, and AI-powered systems.
+I have **6+ years of experience** working across frontend, backend, databases, cloud deployment, API integrations, automation, and AI-powered systems.
 
 My experience includes:
 
@@ -161,7 +164,7 @@ My role includes:
 
 ## 📌 Experience Highlights
 
-* **7+ years of experience** in full-stack software development
+* **6+ years of experience** in full-stack software development
 * Founder & Lead Engineer at **Neptunes Tech**
 * Worked with international clients on freelance platforms and direct contracts
 * Built SaaS platforms, marketplaces, booking systems, dashboards, and automation tools
@@ -230,14 +233,14 @@ We help clients with:
 ## 🌍 Connect With Me
 
 <p>
-  <a href="https://neptunes-tech-rcpa9.ondigitalocean.app/" target="_blank">
+  <a href="https://www.neptunestech.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Neptunes%20Tech-blue?style=for-the-badge&logo=googlechrome" />
   </a>
   <a href="https://github.com/Neptunes-tech" target="_blank">
     <img src="https://img.shields.io/badge/Company-GitHub%20Organization-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussainmansoor876@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hussainmansoor876%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mansoor.hussain@neptunestech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-mansoor.hussain%40neptunestech.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
